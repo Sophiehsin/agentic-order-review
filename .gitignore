@@ -9,4 +9,3 @@ __pycache__/
 .vscode/
 .idea/
 *.log
-blacklist_api/blacklist.csv
